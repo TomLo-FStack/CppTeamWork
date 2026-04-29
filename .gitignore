@@ -1,0 +1,10 @@
+build/
+.zig-cache/
+zig-cache/
+zig-out/
+target/
+*.etx
+*.tmp
+settlement_state.txt
+expenses.dat
+expenses.etx
