@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <array>
 #include <cctype>
+#include <cstddef>
 #include <cstdlib>
 #include <cstring>
 #include <filesystem>
@@ -14,6 +15,7 @@
 #include <stdexcept>
 #include <string>
 #include <string_view>
+#include <tuple>
 #include <vector>
 
 namespace {
